@@ -4,7 +4,7 @@ Machine Learning - CS7641
 November 5 2018
 
 0. Clone repository
-	git clone <reponame>
+	git clone https://github.com/tylerapost/unsupervisedLearning/
 1. Have python installed on your machine
 2. install all dependencies (e.g. pip install pandas) - you will need to install pip if you don't have it
 3. cd src
